@@ -38,7 +38,7 @@
 <br />
 <br />
 <br /> 
-<p align-"center">
+<p align="center">
 - <b>Install Windows via Windows Install Wizard in the VM</b>
 <img src="WindowsInstall.PNG" height="80%" width="80%" alt="Windows Install Wizard"/>
 </p>
