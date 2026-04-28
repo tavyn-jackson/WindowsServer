@@ -31,11 +31,11 @@
 <br />
 <p align="center">
 - <b>Add configurations ( VM name, VM folder, ISO image, etc )</b>
-<img src="VBoxSetup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="VBoxSetup.PNG" height="80%" width="80%" alt="Create Virtual Machine"/>
 <br />
 <br />
 <br /> 
-Select the disk:  <br/>
+- <b>Select the disk:</b>  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
