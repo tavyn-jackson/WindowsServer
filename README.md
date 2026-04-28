@@ -28,19 +28,26 @@
 
 - <b>Launch the VirtualBox</b>
 - <b>Create New VM</b>
+- <b>Add configurations ( VM name, VM folder, ISO image, etc )</b>
 <br />
 <p align="center">
-- <b>Add configurations ( VM name, VM folder, ISO image, etc )</b>
+- <b>Create the Virtual Machine</b>
 <img src="VBoxSetup.PNG" height="80%" width="80%" alt="Create Virtual Machine"/>
+</p>
 <br />
 <br />
 <br /> 
-- <b>Select the disk:</b>  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align-"center">
+- <b>Install Windows via Windows Install Wizard in the VM</b>
+<img src="WindowsInstall.png" height="80%" width="80%" alt="Windows Install Wizard"/>
+</p>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+- <b>VM will start up and automcatically open Server Manager</b>
+<img src="VerifyServerName" height="80%" width="80%" alt="Server Manager Dashboard"/>
+</p>
 <br />
 <br />
 Confirm your selection:  <br/>
