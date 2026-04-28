@@ -1,4 +1,4 @@
-<h1>Install Windows Server 2022 via VM</h1>
+<h1>Setup Virtual Lab Environment</h1>
 
 <h2>Description</h2>
 The project demonstrates the setup and deployment of a Windows Server 2022 virtual machine using Oracle VM VirtualBox for lab and testing purposes
