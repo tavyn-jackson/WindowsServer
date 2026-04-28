@@ -27,7 +27,7 @@
 
 
 - <b>Launch the VirtualBox</b>
- <b>Launch the VirtualBox</b>
+- <b>Launch the VirtualBox</b>
 <br />
 <p align="center">
 Add configurations ( VM name, VM folder, ISO image, etc )
