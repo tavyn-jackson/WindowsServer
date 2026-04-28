@@ -26,12 +26,13 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the VirtualBox <br/>
-Select "New" button in upper-right left corner <br/>
-Add configurations ( VM name, VM folder, ISO image, etc )
+<b>Launch the VirtualBox <br/>
+<b>Select "New" button in upper-right left corner <br/>
+<b>Add configurations ( VM name, VM folder, ISO image, etc )
 <img src="VBoxSetup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br /> 
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
