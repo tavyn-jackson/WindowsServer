@@ -1,6 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Active Directory Setup</h1>
 
 <h2>Description</h2>
 
