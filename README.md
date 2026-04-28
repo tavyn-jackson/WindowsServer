@@ -12,8 +12,11 @@ Created a virtualized server environment to stimulate real-world system administ
 
 <h2>Key Steps:</h2>
 - <b>Initialized a new virtual machine in VirtualBox</b>
+<br />
 - <b>Configured system resources (CPU, RAM, storage)</b>
+<br />
 - <b>Mounted the Windows Server 2022 ISO image</b>
+<br />
 - <b>Completed OS installation through the VM setup process</b>
 
 <h2>Purpose:</h2>
