@@ -4,22 +4,31 @@
 
 <br />
 
+<h2>Resources needed:</h2>
+
+- <b>Laptop/Desktop</b>
+- <b>Minimum 4GB of RAM</b>
+- <b>Minimum 32 GB of storage</b>
+
+<h2>Files and Programs needed:</h2>
+
+- <b>Windows Server 2022 or 2025 iso<br/>
+- <b>Virtual Machine software<br/>
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 Education</b>(21H2)
-- <b> VMware Workstation Pro</b>
-- <b> Windows Server 2022</b>
+- <b>Oracle Virtual Box </b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launch the VirtualBox <br/>
+Select "New" button in upper-right left corner <br/>
+Add configurations ( VM name, VM folder, ISO image, etc )
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
