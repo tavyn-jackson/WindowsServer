@@ -29,7 +29,7 @@
 Launch the VirtualBox <br/>
 Select "New" button in upper-right left corner <br/>
 Add configurations ( VM name, VM folder, ISO image, etc )
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="VBoxSetup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
