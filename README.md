@@ -32,6 +32,7 @@
 <br />
 <p align="center">
 - <b>Create VM</b>
+<br /> 
 <img src="VBoxSetup.PNG" height="80%" width="80%" alt="Create Virtual Machine"/>
 </p>
 <br />
