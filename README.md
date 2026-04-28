@@ -20,7 +20,7 @@ Created a virtualized server environment to stimulate real-world system administ
 - <b>Completed OS installation through the VM setup process</b>
 
 <h2>Purpose:</h2>
-The lab servers as a foundational environment for practicing system administration, ACtive Directory configuration, and enterprise-level server management task
+The lab servers as a foundational environment for practicing system administration, Active Directory configuration, and enterprise-level server management task
 
 <h2>Program walk-through:</h2>
 
