@@ -31,7 +31,7 @@
 - <b>Add configurations ( VM name, VM folder, ISO image, etc )</b>
 <br />
 <p align="center">
-- <b>Create the Virtual Machine</b>
+- <b>Create VM</b>
 <img src="VBoxSetup.PNG" height="80%" width="80%" alt="Create Virtual Machine"/>
 </p>
 <br />
@@ -39,14 +39,14 @@
 <br /> 
 <p align-"center">
 - <b>Install Windows via Windows Install Wizard in the VM</b>
-<img src="WindowsInstall.png" height="80%" width="80%" alt="Windows Install Wizard"/>
+<img src="WindowsInstall.PNG" height="80%" width="80%" alt="Windows Install Wizard"/>
 </p>
 <br />
 <br />
 <br />
 <p align="center">
 - <b>VM will start up and automcatically open Server Manager</b>
-<img src="VerifyServerName" height="80%" width="80%" alt="Server Manager Dashboard"/>
+<img src="VerifyServerName.PNG" height="80%" width="80%" alt="Server Manager Dashboard"/>
 </p>
 <br />
 <br />
