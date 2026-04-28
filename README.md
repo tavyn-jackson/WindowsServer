@@ -30,26 +30,27 @@
 - <b>Create New VM</b>
 - <b>Add configurations ( VM name, VM folder, ISO image, etc )</b>
 <br />
+
 <p align="center">
 - <b>Create VM</b>
 <br /> 
 <img src="VBoxSetup.PNG" height="80%" width="80%" alt="Create Virtual Machine"/>
 </p>
+
 <br />
-<br />
-<br /> 
+
 <p align="center">
 - <b>Install Windows via Windows Install Wizard in the VM</b>
 <img src="WindowsInstall.PNG" height="80%" width="80%" alt="Windows Install Wizard"/>
 </p>
+
 <br />
-<br />
-<br />
+
 <p align="center">
 - <b>VM will start up and automcatically open Server Manager</b>
 <img src="VerifyServerName.PNG" height="80%" width="80%" alt="Server Manager Dashboard"/>
 </p>
-<br />
+
 <br />
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
