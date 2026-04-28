@@ -26,9 +26,9 @@
 <h2>Program walk-through:</h2>
 
 
-<b>Launch the VirtualBox</b>
+- <b>Launch the VirtualBox</b>
 <br />
-<b>Select "New" button in upper-right left corner</b>
+- <b>Select "New" button in upper-right left corner</b>
 <br />
 <p align="center">
 Add configurations ( VM name, VM folder, ISO image, etc )
