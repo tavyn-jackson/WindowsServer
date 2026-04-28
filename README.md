@@ -27,7 +27,6 @@
 
 
 - <b>Launch the VirtualBox</b>
-<br />
  <b>Launch the VirtualBox</b>
 <br />
 <p align="center">
