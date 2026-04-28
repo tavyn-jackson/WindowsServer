@@ -1,27 +1,23 @@
-<h1>Active Directory Setup</h1>
+<h1>Install Windows Server 2022 via VM</h1>
 
 <h2>Description</h2>
+The project demonstrates the setup and deployment of a Windows Server 2022 virtual machine using Oracle VM VirtualBox for lab and testing purposes
 
 <br />
 
-<h2>Resources needed:</h2>
+<h2>Overview</h2>
+Created a virtualized server environment to stimulate real-world system administration tasks and support hand-on learning for IT infrastructure concepts.
 
-- <b>Laptop/Desktop</b>
-- <b>Minimum 4GB of RAM</b>
-- <b>Minimum 32 GB of storage</b>
+<br />
 
-<h2>Files and Programs needed:</h2>
+<h2>Key Steps:</h2>
+- <b>Initialized a new virtual machine in VirtualBox</b>
+- <b>Configured system resources (CPU, RAM, storage)</b>
+- <b>Mounted the Windows Server 2022 ISO image</b>
+- <b>Completed OS installation through the VM setup process</b>
 
-- <b>Windows Server 2022 or 2025 iso<br/>
-- <b>Virtual Machine software<br/>
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-
-<h2>Environments Used </h2>
-
-- <b>Oracle Virtual Box </b>
+<h2>Purpose:</h2>
+The lab servers as a foundational environment for practicing system administration, ACtive Directory configuration, and enterprise-level server management task
 
 <h2>Program walk-through:</h2>
 
