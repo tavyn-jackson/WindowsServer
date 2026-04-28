@@ -28,7 +28,7 @@
 
 - <b>Launch the VirtualBox</b>
 <br />
-- <b>Select "New" button in upper-right left corner</b>
+ <b>Launch the VirtualBox</b>
 <br />
 <p align="center">
 Add configurations ( VM name, VM folder, ISO image, etc )
